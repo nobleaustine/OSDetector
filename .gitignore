@@ -1,7 +1,12 @@
 # Byte-compiled / optimized / DLL files
+
+.ipynb_checkpoints
+resnet_50_deeplab_v3+/
+data/
 __pycache__/
 *.py[cod]
 *$py.class
+.env
 
 # C extensions
 *.so
